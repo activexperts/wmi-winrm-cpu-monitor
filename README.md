@@ -1,6 +1,6 @@
-# Cpu-wmi-winrm
-ActiveXperts PowerShell script to check CPU usage on a Windows machine
-Script is based on WMI/WinRM.
+# Powershell Script to monitor CPU usage on a (remote) Windows server
+PowerShell script to check CPU usage on a Windows machine
+The script is based on WMI/WinRM.
 
 ## Overview
 This is an easy to show how to monitor CPU on a (remote) Windows server. 
